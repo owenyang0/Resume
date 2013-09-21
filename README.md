@@ -2,12 +2,12 @@
 ----
 > 电话 15528178836  
 > 邮箱 usay@outlook.com  
-> GitHub｜[@owenyang0](https://github.com/owenyang0)  
+> GitHub｜[@owenyang0](https://github.com/owenyang0/Resume)  
 > CSDN  ｜[http://blog.csdn.net/ys_073](http://blog.csdn.net/ys_073)
 
 求职意向
 --------
-> * 职位：软件开发
+> * 职位：*软件开发*
 > * 工作地：成都
 
 基本信息
@@ -669,3 +669,6 @@
   width:48pt'>2140226</td>
  </tr>
 </table>
+
+-------------------------------------------------------------------------------------------
+[简历首页](https://github.com/owenyang0/Resume)｜[项目经验](https://github.com/owenyang0/Resume/ProjectExperience.md)｜[已读书单](https://github.com/owenyang0/Resume/BooksReaded.md)
