@@ -671,4 +671,4 @@
 </table>
 
 -------------------------------------------------------------------------------------------
-[简历首页](https://github.com/owenyang0/Resume)｜[项目经验](https://github.com/owenyang0/Resume/ProjectExperience.md)｜[已读书单](https://github.com/owenyang0/Resume/BooksReaded.md)
+[简历首页](https://github.com/owenyang0/Resume/blob/master/Resume.md)｜[项目经验](https://github.com/owenyang0/Resume/blob/master/ProjectExperience.md)｜[已读书单](https://github.com/owenyang0/Resume/blob/master/BooksReaded.md)

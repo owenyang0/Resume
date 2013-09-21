@@ -98,3 +98,6 @@
 大学书单
 --------
 大学期间，对IT非常狂热。对各种经典知识，新技术都有相当的热情，以下是我从本校图书馆系统里出导出的[读书清单](\BooksReaded.md)，现仅仅例出了技术方面的图书
+
+----------------------------------------------------------------------------------
+[简历首页](https://github.com/owenyang0/Resume/blob/master/Resume.md)｜[项目经验](https://github.com/owenyang0/Resume/blob/master/ProjectExperience.md)｜[已读书单](https://github.com/owenyang0/Resume/blob/master/BooksReaded.md)

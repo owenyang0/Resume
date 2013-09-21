@@ -27,5 +27,5 @@
 > **项目地址** [WirelessShare](https://github.com/owenyang0/WirelessShare)
 > > * 利用`C#`，调用WINDOWS内部的`DOS系统`，模拟`DOS命令`，开启无线网卡网络共享的功能。  
 > > * 该软件主要便于用户，设置、修改密码以及启动、停止功能。
-----------------------------------------------------
-[简历首页](https://github.com/owenyang0/Resume)｜[项目经验](https://github.com/owenyang0/Resume/ProjectExperience.md)｜[已读书单](https://github.com/owenyang0/Resume/BooksReaded.md)
+----------------------------------------------------------------------------------
+[简历首页](https://github.com/owenyang0/Resume/blob/master/Resume.md)｜[项目经验](https://github.com/owenyang0/Resume/blob/master/ProjectExperience.md)｜[已读书单](https://github.com/owenyang0/Resume/blob/master/BooksReaded.md)
